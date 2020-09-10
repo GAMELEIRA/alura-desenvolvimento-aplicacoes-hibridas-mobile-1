@@ -3,6 +3,8 @@ export interface Carro {
   
     nome: String,
   
-    preco: Number
+    preco: Number,
+
+    fotos: String[]
 
 }
